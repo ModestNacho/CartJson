@@ -1,4 +1,5 @@
-[
+{
+    "product":[
      {
         "id": 1,
         "name": "Mirrors Edge",
@@ -18,3 +19,4 @@
         "image_url": "https://upload.wikimedia.org/wikipedia/en/1/15/The_Elder_Scrolls_V_Skyrim_cover.png"
     }
 ]
+}
