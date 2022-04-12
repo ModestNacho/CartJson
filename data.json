@@ -1,0 +1,20 @@
+[
+     {
+        "id": 1,
+        "name": "Mirrors Edge",
+        "price": "80.00",
+        "image_url": "https://static.wikia.nocookie.net/mirrorsedge/images/e/e3/Mirror%27s_Edge_-_Cover_art.png/revision/latest?cb=20141126013215"
+    },
+    {
+        "id": 2,
+        "name": "Witcher 3",
+        "price": "70.00",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Skyrim",
+        "price": "50.00",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/1/15/The_Elder_Scrolls_V_Skyrim_cover.png"
+    }
+]
